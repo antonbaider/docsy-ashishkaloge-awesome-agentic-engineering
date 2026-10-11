@@ -110,6 +110,7 @@ collection of links.
 - [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk) - Implements the protocol for TypeScript MCP servers and clients.
 - [Model Context Protocol](https://modelcontextprotocol.io/) - Defines the open protocol for connecting agents to tools and context.
 - [Rune](https://github.com/thecolourfoundation/rune) - Builds a queryable codebase graph with file-and-line evidence for coding agents through MCP.
+- [Tale](https://docs.tale.dev/develop/mcp-endpoint) - Connects coding agents to a self-hosted workspace through authenticated MCP tools for knowledge retrieval and automation authoring, testing, and deployment.
 
 ## Skills And Plugins
 
